@@ -1,3 +1,1 @@
-# Ransomware-File
-
-Simple way to understand encryption and ransomware
+### My own Jack The Ripper
