@@ -1,5 +1,5 @@
 <a href="https://github.com/pxcs/BlackMarlinExec/"><p align="center">
-<img width="300" height="300" src="/src/jtrs.png">
+<img width="300" height="300" src="/src/jtrs.jpg">
 </p></a>
 
 ## Jack The Ripper
